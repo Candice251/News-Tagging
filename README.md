@@ -29,11 +29,10 @@ LinearSVM 訓練的三段式架構，
 
 | 指標 | Precision | Recall | F1-score |
 |------|-----------|--------|----------|
-| Micro avg | 0.72 | 0.81 | 0.76 |
-| Macro avg | 0.71 | 0.71 | 0.77 |
-| Weighted avg | 0.73 | 0.81 | 0.76 |
-| Samples avg | 0.74 | 0.82 | 0.75 |
-| **AP** | | | **0.84** |
+| Micro avg | 0.75 | 0.79 | 0.77 |
+| Macro avg | 0.73 | 0.74 | 0.73 |
+| Weighted avg | 0.75 | 0.79 | 0.77 |
+| Samples avg | 0.77 | 0.80 | 0.76 |
 
 ## 完整說明
 詳見 PDF 文件
